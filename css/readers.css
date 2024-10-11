@@ -63,14 +63,14 @@
 
 /* فهرس ملفات الصوت */
 
-.readers_mp3_top {
+.readers_بث مباشر على مدار الساعة 24/24_top {
     margin-top: 0px;
     margin-bottom: 10px;
     color: var(--color-font-7);
     text-align: center;
 }
 
-.readers_mp3_top_small {
+.readers_بث مباشر على مدار الساعة 24/24_top_small {
     display: block;
     margin-top: 0px;
     text-align: center;
@@ -80,7 +80,7 @@
     color: var(--color-font-6);
 }
 
-.readers_mp3_home {
+.readers_بث مباشر على مدار الساعة 24/24_home {
     width: 200px;
     display: block;
     padding: 5px;
@@ -94,16 +94,16 @@
     font-family: var(--font1);
 }
 
-.readers_mp3_home:hover {
+.readers_بث مباشر على مدار الساعة 24/24_home:hover {
     background-color: var(--b-color-6);
 }
 
-.readers_mp3_home a {
+.readers_بث مباشر على مدار الساعة 24/24_home a {
     text-decoration: none;
     color: var(--color-font-1);
 }
 
-.readers_mp3 {
+.readers_بث مباشر على مدار الساعة 24/24 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -117,7 +117,7 @@
     margin-right: auto;
 }
 
-.readers_mp3 li {
+.readers_بث مباشر على مدار الساعة 24/24 li {
     width: 100%;
     background-color: var(--b-color-8);
     text-align: center;
@@ -127,32 +127,32 @@
     padding: 10px;
 }
 
-.readers_mp3 p {
+.readers_بث مباشر على مدار الساعة 24/24 p {
     color: var(--color-font-7);
     font-size: 18px;
     margin-top: 0px;
     margin-bottom: 10px;
 }
 
-.readers_mp3 audio {
+.readers_بث مباشر على مدار الساعة 24/24 audio {
     width: 90%;
     height: 40px;
     border-radius: 5px;
 }
 
-.readers_mp3 div {
+.readers_بث مباشر على مدار الساعة 24/24 div {
     display: flex;
     justify-content: space-evenly;
 }
 
-.readers_mp3 a {
+.readers_بث مباشر على مدار الساعة 24/24 a {
     margin-left: 5px;
     margin-right: 5px;
     text-decoration: none;
     color: var(--color-font-3);
 }
 
-.readers_mp3 a:hover {
+.readers_بث مباشر على مدار الساعة 24/24 a:hover {
     color: var(--color-font-4);
 }
 
